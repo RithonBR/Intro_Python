@@ -4,9 +4,9 @@
     <img src="./img/python.png" width = 100px>
 </p>
 
-1. Instalação
-2. Conceitos Básicos
-3. Exercícios
+1. [Instalação](/Docs/1.Instalacao.md)
+2. [Conceitos Básicos](/Docs/2.Conceitos.md)
+3. [Exercícios](/Docs/3.Exercicios.md)
 4. Módulos
 5. 
 6. 
