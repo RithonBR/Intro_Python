@@ -7,8 +7,8 @@
 1. [Instalação](/Docs/1.Instalacao.md)
 2. [Conceitos Básicos](/Docs/2.Conceitos.md)
 3. [Exercícios](/Docs/3.Exercicios.md)
-4. Módulos
-5. 
+4. [Módulos](/Docs/4.modulos.md)
+5. Coisas Interesantes
 6. 
 7. 
 8. 
