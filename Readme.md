@@ -15,4 +15,4 @@
 9. 
 10. 
 
-### Autor : Rithon(Forma de Estudar, Resumos da Documentação)
+### Autor : Rithon(Forma de Estudar , Resumos da Documentação)
