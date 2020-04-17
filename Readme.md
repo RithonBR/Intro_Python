@@ -8,8 +8,8 @@
 2. [Conceitos Básicos](/Docs/2.Conceitos.md)
 3. [Exercícios](/Docs/3.Exercicios.md)
 4. [Módulos](/Docs/4.modulos.md)
-5. Coisas Interesantes
-6. 
+5. [Coisas Interesantes](/Docs/5.Coisas_Interesantes.md)
+6. Estruturas de Condição e Repetição
 7. 
 8. 
 9. 
