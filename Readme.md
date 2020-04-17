@@ -10,9 +10,9 @@
 4. [Módulos](/Docs/4.modulos.md)
 5. [Coisas Interesantes](/Docs/5.Coisas_Interesantes.md)
 6. Estruturas de Condição e Repetição
-7. 
-8. 
-9. 
-10. 
+7. Tuplas,Listas,Dicionarios
+8. Funções
+9. POO
+10. ?
  
 ### Autor : Rithon(Forma de Estudar, Resumos da Documentação)
