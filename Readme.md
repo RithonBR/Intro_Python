@@ -9,9 +9,9 @@
 3. [Exercícios](/Docs/3.Exercicios.md)
 4. [Módulos](/Docs/4.modulos.md)
 5. [Coisas Interesantes](/Docs/5.Coisas_Interesantes.md)
-6. Estruturas de Condição e Repetição
-7. Tuplas,Listas,Dicionarios
-8. Funções
+6. [Estruturas de Condição e Repetição](/Docs/6.Estruturas.md)
+7. [Tuplas,Listas,Dicionarios](/Docs/7.TLD.md)
+8. [Funções](/Docs/8.funcoes.md)
 9. POO
 10. ?
  
