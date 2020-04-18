@@ -1,4 +1,3 @@
-<body style="background-color:#808080;">
 
 <h1 align=center>Introdução a Python</h1>
 
@@ -16,7 +15,6 @@
 8. [Funções](/Docs/8.funcoes.md)
 9. POO
 10. ?
- 
+
 ### Autor : Rithon(Forma de Estudar, Resumos da Documentação)
 
-</body>
