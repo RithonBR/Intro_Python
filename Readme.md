@@ -1,3 +1,5 @@
+<body style="background-color:#808080;">
+
 <h1 align=center>Introdução a Python</h1>
 
 <p align=center>
@@ -16,3 +18,5 @@
 10. ?
  
 ### Autor : Rithon(Forma de Estudar, Resumos da Documentação)
+
+</body>
