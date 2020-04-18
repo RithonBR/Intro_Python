@@ -13,7 +13,7 @@
 6. [Estruturas de Condição e Repetição](/Docs/6.Estruturas.md)
 7. [Tuplas,Listas,Dicionarios](/Docs/7.TLD.md)
 8. [Funções](/Docs/8.funcoes.md)
-9. Modularização
+9. Modularização e Pacotes
 10. POO
 
 ### Autor : Rithon(Forma de Estudar, Resumos da Documentação)
